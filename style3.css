@@ -1,0 +1,40 @@
+*{
+    background-color: #85dcb8;
+}
+.newnav{
+    display: flex;
+    align-items: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 60px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    line-height: 1.5;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 0;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
